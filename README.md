@@ -1,5 +1,6 @@
 # 💫 About Me:
 
+👋 Hi I’am Mohammad Kresna
 🔭 I’m Currently Studying CyberSecurity
 
 ## 🌐 Socials:
