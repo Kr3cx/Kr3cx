@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently studying CyberSecurity
+🔭 I’m Currently Studying CyberSecurity
 
 ## 🌐 Socials:
 
