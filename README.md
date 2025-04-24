@@ -2,9 +2,9 @@
 
 # 💫 About Me:
 
-👋 Hi I’am Mohammad Kresna
+# Hello World!, I'm Kresna, a Gabut People 👋🏼:
+🛜 currently working on my own [webpage](https://kr3cx.my.id)<br>👨🏼‍🎓 studying media based computer science at SMK Telkom Sidoarjo <br>👨🏼‍💻 working as a Cyber Security <br>
 
-🔭 I’m Currently Studying CyberSecurity
 
 ## 🌐 Socials:
 
